@@ -1,0 +1,4 @@
+mystore
+=======
+
+store some obj
